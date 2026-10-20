@@ -5,7 +5,8 @@ HTML plus one CSS file; no JavaScript, cookies, trackers or external requests. S
 
 Live URL: `https://beydadonmezz.github.io/snugdoku-site/` (privacy `/privacy/`, terms `/terms/`, support `/support/`, Turkish under `/tr/`).
 
-Source: the game repo, `tools/site/build.py` writes `site/`. Publish:
+Source: the old Snugdoku game repo, archived on 2026-10-21 at `/Applications/Apps/_arsiv/snugdoku-eski` (`tools/site/build.py`
+writes `site/`). Run the commands below from that folder, NOT from `/Applications/Apps/snugdoku` (now the merged app). Publish:
 
 ```sh
 python3 tools/site/build.py
